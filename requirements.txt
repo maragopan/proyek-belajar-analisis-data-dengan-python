@@ -1,0 +1,10 @@
+Babel
+google-colab
+matplotlib
+matplotlib.pyplot
+numpy
+pandas
+scipy
+seaborn
+sklearn-pandas
+streamlit
