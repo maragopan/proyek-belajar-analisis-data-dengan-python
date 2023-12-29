@@ -87,7 +87,7 @@ def create_rfm_df(df):
     return rfm_df
 
 
-dashboard_dataset3 = pd.read_csv("dashboard_dataset3.csv")
+dashboard_dataset3 = pd.read_csv("https://raw.githubusercontent.com/maragopan/proyek-belajar-analisis-data-dengan-python/master/dashboard/dashboard_dataset3.csv")
 
 # Mengurutkan DataFrame berdasarkan order_purchase_timestamp
 datetime_columns = ["order_purchase_timestamp"]
