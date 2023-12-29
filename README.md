@@ -1,4 +1,4 @@
-# Dicoding Collection Dashboard ✨
+# :sparkles: Gopanpedia Dashboard :sparkles:
 
 ## Setup environment
 ```
